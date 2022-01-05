@@ -10,3 +10,4 @@ it is listed on the most known platforms.We tried to predict future with AutoTS 
 
 
 We used a random dataset from Kaggle.This includes last 4 year informations about Cardano like Opening, Close, Volume etc.
+We performed similar project in R but this is a little bit different.
