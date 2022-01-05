@@ -7,3 +7,6 @@ it is listed on the most known platforms.We tried to predict future with AutoTS 
 ![results](https://user-images.githubusercontent.com/38746955/148267777-95bd9235-d825-4e28-bb18-7d1c9ea1d3e9.PNG)
 
 ![result2](https://user-images.githubusercontent.com/38746955/148267784-d834eafb-caef-4422-a777-f8a7939add6e.PNG)
+
+
+We used a random dataset from Kaggle.This includes last 4 year informations about Cardano like Opening, Close, Volume etc.
